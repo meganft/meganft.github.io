@@ -42,6 +42,10 @@ l1 {
   text-align: justify;
 }
 
+#links {
+  text-align: justify
+}
+
 .about-text {
   font: 'Open Sans', sans-serif;
 }
