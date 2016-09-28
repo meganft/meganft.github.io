@@ -1,5 +1,5 @@
 html{
-  font-family: 'Helvetica'
+  font-family: 'Helvetica';
   font-weight: lighter;
 }
 
@@ -9,7 +9,7 @@ body {
 
 title {
   color: #fa8072;
-  font-family: 'Helvetica'
+  font-family: 'Helvetica';
   font-weight: lighter;
   text-align: center;
   font-size: 48px;
@@ -17,14 +17,14 @@ title {
 
 h3 {
   color: #fa8072;
-  font-family: 'Helvetica'
+  font-family: 'Helvetica';
   font-weight: lighter;
   text-align: center;
   font-size: 24px;
 }
 
 h2 {
-  font-family: 'Helvetica'
+  font-family: 'Helvetica';
   text-align: center;
   font-size: 24px;
 }
