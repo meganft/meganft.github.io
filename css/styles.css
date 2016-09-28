@@ -14,3 +14,8 @@ h3 {
 l1 {
   font-size: 14px
 }
+
+.footer-nav {
+  border-bottom: solid 1px #f96706;
+  border-top: solid 1px #f96706;
+}
