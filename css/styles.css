@@ -1,20 +1,20 @@
 html{
-  font-family: Arial
+  font-family: 'Open Sans', sans-serif;
 }
 
 body {
   background-color: #D0D0D0;
-  font-family: Arial
+  font-family: 'Open Sans', sans-serif;
 }
 title {
   color: #fa8072;
-  font-family: Arial
+  font-family: 'Open Sans', sans-serif;
   text-align: center
   font-size: 48px
 }
 h3 {
   color: #fa8072;
-  font-family: Arial
+  font-family: 'Open Sans', sans-serif;
   text-align: center
   font-size: 48px
 }
@@ -33,5 +33,5 @@ l1 {
 }
 
 .about-text {
-  font: Arial
+  font: 'Open Sans', sans-serif;
 }
