@@ -5,11 +5,9 @@ html{
 
 body {
   background-color: #D0D0D0;
-  font-family: 'Helvetica'
-  font-weight: lighter;
 }
 
-h1 {
+title {
   color: #fa8072;
   font-family: 'Helvetica'
   font-weight: lighter;
@@ -36,9 +34,9 @@ h2 {
 }
 
 #links {
-  text-align: center
+  text-align: center;
 }
 
 .about-text {
-  font: 'Helvetica'
+  font: 'Helvetica';
 }
