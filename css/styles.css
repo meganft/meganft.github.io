@@ -1,17 +1,17 @@
 html{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway'
   font-weight: lighter;
 }
 
 body {
   background-color: #D0D0D0;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway'
   font-weight: lighter;
 }
 
 title {
   color: #fa8072;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway'
   font-weight: lighter;
   text-align: center;
   font-size: 48px;
@@ -19,7 +19,7 @@ title {
 
 h3 {
   color: #fa8072;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway'
   font-weight: lighter;
   text-align: center;
   font-size: 24px;
@@ -27,7 +27,7 @@ h3 {
 
 h2 {
   color: #fa8072;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway'
   text-align: center;
   font-size: 24px;
 }
@@ -50,5 +50,5 @@ l1 {
 }
 
 .about-text {
-  font: 'Open Sans', sans-serif;
+  font: 'Raleway
 }
