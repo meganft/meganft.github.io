@@ -9,25 +9,25 @@ body {
 title {
   color: #fa8072;
   font-family: 'Open Sans', sans-serif;
-  text-align: center
-  font-size: 48px
+  text-align: center;
+  font-size: 48px;
 }
 h3 {
   color: #fa8072;
   font-family: 'Open Sans', sans-serif;
-  text-align: center
-  font-size: 48px
+  text-align: center;
+  font-size: 48px;
 }
 
 h2 {
   color: #fa8072;
   font-family: 'Open Sans', sans-serif;
-  text-align: center
-  font-size: 24px
+  text-align: center;
+  font-size: 24px;
 }
 
 l1 {
-  font-size: 14px
+  font-size: 14px;
 }
 
 .footer-nav {
@@ -36,7 +36,7 @@ l1 {
 }
 
 #buttons {
-  text-align: justify
+  text-align: justify;
 }
 
 .about-text {
