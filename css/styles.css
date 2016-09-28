@@ -1,17 +1,17 @@
 html{
-  font-family: 'Raleway'
+  font-family: 'Helvetica'
   font-weight: lighter;
 }
 
 body {
   background-color: #D0D0D0;
-  font-family: 'Raleway'
+  font-family: 'Helvetica'
   font-weight: lighter;
 }
 
-title {
+h1 {
   color: #fa8072;
-  font-family: 'Raleway'
+  font-family: 'Helvetica'
   font-weight: lighter;
   text-align: center;
   font-size: 48px;
@@ -19,14 +19,14 @@ title {
 
 h3 {
   color: #fa8072;
-  font-family: 'Raleway'
+  font-family: 'Helvetica'
   font-weight: lighter;
   text-align: center;
   font-size: 24px;
 }
 
 h2 {
-  font-family: 'Raleway'
+  font-family: 'Helvetica'
   text-align: center;
   font-size: 24px;
 }
@@ -40,5 +40,5 @@ h2 {
 }
 
 .about-text {
-  font: 'Raleway'
+  font: 'Helvetica'
 }
