@@ -22,7 +22,7 @@ h3 {
   font-family: 'Raleway', sans-serif;
   font-weight: lighter;
   text-align: center;
-  font-size: 48px;
+  font-size: 24px;
 }
 
 h2 {
@@ -36,7 +36,6 @@ l1 {
   font-size: 14px;
 }
 
-
 .footer-nav {
   border-bottom: solid 1px #f96706;
   border-top: solid 1px #f96706;
@@ -47,7 +46,7 @@ l1 {
 }
 
 #links {
-  text-align: justify
+  text-align: center
 }
 
 .about-text {
