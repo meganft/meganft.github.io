@@ -60,6 +60,8 @@ post.title {
   word-spacing:3em;
   font-family: Helvetica;
   font-weight: lighter;
+  border-style: solid
+  border-radius: 5px;
 }
 
 #about-text {
