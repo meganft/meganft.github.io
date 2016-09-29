@@ -62,13 +62,15 @@ post.title {
   font-weight: lighter;
 }
 
-.about-text {
+#about-text {
   font: Helvetica;
   font-weight: lighter;
+  text-align: center;
 }
 
 #megan {
   border-radius: 70%;
   height: 200px;
   margin: 5%;
+  text-align: center;
 }
