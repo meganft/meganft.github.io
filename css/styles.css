@@ -45,10 +45,12 @@ post.title {
 
 #buttons {
   text-align: justify;
+  position: absolute;
 }
 
 #links {
   text-align: center;
+  padding: 2cm;
   word-spacing:3em;
   font-family: Helvetica;
   font-weight: lighter;
