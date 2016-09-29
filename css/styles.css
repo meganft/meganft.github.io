@@ -52,7 +52,7 @@ a:link {
 }
 
 a:hover {
-  text-decoration: none;
+  color: #fa8072;
 }
 
 a:visited {
