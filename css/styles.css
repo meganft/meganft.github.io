@@ -5,15 +5,8 @@ html {
 
 body {
   border-top-style: dotted;
+  border-bottom-style: dotted;
   background-color: #D0D0D0;
-}
-
-title {
-  color: #fa8072;
-  font-family: Helvetica;
-  font-weight: lighter;
-  text-align: center;
-  font-size: 80px;
 }
 
 h1 {
