@@ -40,14 +40,6 @@ h2 {
   font-size: 24px;
 }
 
-post.title {
-  color: black;
-  font-family: Helvetica;
-  font-weight: lighter;
-  text-align: center;
-  font-size: 18px;
-}
-
 #buttons {
   text-align: justify;
   position: absolute;
@@ -74,5 +66,11 @@ post.title {
   border-radius: 70%;
   height: 200px;
   margin: 5%;
-  text-align: center;
+  align: center;
+}
+
+#blog-head {
+  font: Helvetica;
+  font-weight: lighter;
+  font-size: 24px;
 }
