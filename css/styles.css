@@ -59,8 +59,7 @@ a:visited {
   color: #fa8072;
 }
 
-#buttons {
-  align: right;
+footer {
   position: absolute;
   margin: auto;
   padding: 60px 120px
