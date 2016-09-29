@@ -51,6 +51,7 @@ post.title {
 #buttons {
   text-align: justify;
   position: absolute;
+  padding: 10cm;
 }
 
 #links {
