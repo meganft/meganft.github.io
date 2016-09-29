@@ -60,9 +60,8 @@ a:visited {
 }
 
 footer {
-  position: absolute;
+  position: center;
   margin: auto;
-  padding: 10px 60px;
 }
 
 #about-text {
