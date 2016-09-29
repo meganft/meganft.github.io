@@ -5,7 +5,7 @@ layout: default
 
 
 {% for post in site.posts %}
-  <h3><a style="font-size: 1.5em;" href="{{ post.url }}">{{ post.title }}</a></h3>
+  <h3><a style="font-size: .75em;" href="{{ post.url }}">{{ post.title }}</a></h3>
   <h4>{{ post.date | date: "%m-%d-%Y" }}</h4>
     <p>{{ post.content | strip_html | truncatewords:10}}</p>
 {% endfor %}

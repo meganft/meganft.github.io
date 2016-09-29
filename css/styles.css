@@ -34,7 +34,7 @@ h2 {
 }
 
 #buttons {
-  text-align: right;
+  align: right;
   position: absolute;
   margin: auto;
 }
