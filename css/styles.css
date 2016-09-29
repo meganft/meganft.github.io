@@ -11,6 +11,15 @@ title {
   font-size: 54px;
 }
 
+h1 {
+  color: #fa8072;
+  border-bottom-style: dotted;
+  font-family: Helvetica;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 54px;
+}
+
 h3 {
   color: #fa8072;
   font-family: Helvetica;
