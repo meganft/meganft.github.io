@@ -32,6 +32,18 @@ h2 {
   font-size: 24px;
 }
 
+div {
+  font-size: 1em;
+  font-family: Helvetica;
+  font-weight: lighter;
+  align-content: center;
+  background-color: white;
+  opacity: 0.5;
+  height: 100%;
+  width: 80%;
+  margin: auto;
+}
+
 #buttons {
   align: right;
   position: absolute;
@@ -71,16 +83,4 @@ a:visited {
   font: Helvetica;
   font-weight: lighter;
   font-size: 24px;
-}
-
-div {
-  font-size: 1em;
-  font-family: Helvetica;
-  font-weight: lighter;
-  align-content: center;
-  background-color: white;
-  opacity: 0.6;
-  height: 100%;
-  width: 75%;
-  margin: 0 auto;
 }
