@@ -52,6 +52,8 @@ post.title {
 #links {
   text-align: center;
   word-spacing:3em;
+  font-family: Helvetica;
+  font-weight: lighter;
 }
 
 .about-text {
