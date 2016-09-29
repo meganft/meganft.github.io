@@ -43,12 +43,6 @@ div {
   font-weight: lighter;
 }
 
-#buttons {
-  align: right;
-  position: absolute;
-  margin: auto;
-}
-
 a:link {
   text-align: center;
   font-family: Helvetica Neue;
@@ -63,6 +57,12 @@ a:hover {
 
 a:visited {
   color: #fa8072;
+}
+
+#buttons {
+  align: right;
+  position: absolute;
+  margin: auto;
 }
 
 #about-text {
