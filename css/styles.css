@@ -55,6 +55,7 @@ h2 {
   font-weight: lighter;
   border-style: solid
   border-radius: 5px;
+  text-decoration: none;
 }
 
 #about-text {
