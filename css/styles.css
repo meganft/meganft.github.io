@@ -59,3 +59,9 @@ post.title {
 .about-text {
   font: Helvetica;
 }
+
+#megan {
+  border-radius: 50%;
+  height: 100px;
+  margin: 2%;
+}
