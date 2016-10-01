@@ -53,7 +53,7 @@ a:link {
 
 a:hover {
   color: #fa8072;
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 a:visited {
