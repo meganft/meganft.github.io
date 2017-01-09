@@ -6,7 +6,8 @@ html {
 
 body {
   border-top-style: dotted;
-  background-image: url("https://unsplash.com/photos/vPFbVB7DPZI")
+  background-image: url("https://unsplash.com/photos/vPFbVB7DPZI");
+  background-size: cover;
 }
 
 h1 {
@@ -65,9 +66,9 @@ footer {
 }
 
 .about {
-  background-size: 80px 60px;
+  /*background-size: 80px 60px;
   background-repeat: no-repeat;
-}
+}*/
 
 #about-text {
   font: Helvetica Neue;
