@@ -5,7 +5,7 @@ html {
 
 body {
   border-top-style: dotted;
-  background-image: image('boston.jpg');
+  background-image: url("https://unsplash.com/photos/vPFbVB7DPZI");
 }
 
 h1 {
@@ -14,6 +14,7 @@ h1 {
   font-weight: lighter;
   text-align: left;
   font-size: 60px;
+    padding-left: 100px;
 }
 
 h3 {
@@ -63,8 +64,8 @@ a:visited {
 }
 
 footer {
-  position: center;
-  margin: auto;
+  padding-left: 100px;
+
 }
 
 .about {
