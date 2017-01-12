@@ -1,15 +1,12 @@
 html {
   font-family: Helvetica Neue;
   font-weight: lighter;
-}
-
-.index {
-  /*background-image: url("https://unsplash.com/search/boston?photo=nB5Zpl30DsM");*/
+  text-align: center;
 }
 
 body {
   border-top-style: dotted;
-  background-image: url("https://unsplash.com/search/boston?photo=nB5Zpl30DsM");
+  background-image: url("https://unsplash.com/search/boston?photo=nB5Zpl30DsM")
 }
 
 h1 {
@@ -68,6 +65,7 @@ footer {
 }
 
 .about {
+  background-repeat: no-repeat;
   background-image: url("https://unsplash.com/search/boston?photo=nB5Zpl30DsM")
 
 }
