@@ -1,1 +1,1 @@
-Into repo for personal website
+Repo for personal website

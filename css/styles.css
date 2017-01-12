@@ -5,7 +5,7 @@ html {
 
 body {
   border-top-style: dotted;
-  background-image: : url("https://unsplash.com/photos/vPFbVB7DPZI");
+  background-image: url("https://unsplash.com/photos/vPFbVB7DPZI");
 }
 
 h1 {
@@ -29,6 +29,10 @@ h2 {
   font-weight: lighter;
   text-align: center;
   font-size: 48px;
+}
+
+.index {
+  padding-left: 100px;
 }
 
 /*div {
