@@ -1,7 +1,11 @@
 html {
   font-family: Helvetica Neue;
   font-weight: lighter;
-  text-align: center;
+}
+
+.index {
+  background-image: url("https://unsplash.com/search/boston?photo=nB5Zpl30DsM")
+
 }
 
 body {
