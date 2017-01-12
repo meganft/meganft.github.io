@@ -6,7 +6,6 @@ html {
 
 body {
   border-top-style: dotted;
-  background-image: url("https://unsplash.com/search/boston?photo=nB5Zpl30DsM")
 }
 
 h1 {
@@ -14,7 +13,7 @@ h1 {
   font-family: Helvetica Neue;
   font-weight: lighter;
   text-align: center;
-  font-size:70px;
+  font-size:80px;
 }
 
 h3 {
@@ -65,9 +64,9 @@ footer {
 }
 
 .about {
+  background: url("https://unsplash.com/photos/vPFbVB7DPZI");
+  background-size: 80px 60px;
   background-repeat: no-repeat;
-  background-image: url("https://unsplash.com/search/boston?photo=nB5Zpl30DsM")
-
 }
 
 #about-text {
