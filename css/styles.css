@@ -6,6 +6,7 @@ html {
 body {
   border-top-style: dotted;
   background-image: url('https://unsplash.com/photos/nB5Zpl30DsM');
+  background-repeat: no-repeat;
 }
 
 h1 {
