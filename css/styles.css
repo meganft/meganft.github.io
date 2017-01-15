@@ -69,7 +69,7 @@ footer {
 }
 
 .about {
-  background-image: url("../assets/boston.jpg");
+  background-image: url("./assets/boston.jpg");
   display: block;
   background-repeat: no-repeat;
 }
