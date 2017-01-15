@@ -4,11 +4,7 @@ html {
 }
 
 body {
-  border-top-style: dotted;
-  background-image: url(/images/boston.jpg);
-  display: block;
-  background-repeat: no-repeat;
-  background-size: cover;
+
 }
 
 h1 {
@@ -72,7 +68,10 @@ footer {
 }
 
 .about {
-
+  background-image: url(/images/boston.jpg);
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #about-text {
