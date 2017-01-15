@@ -5,7 +5,9 @@ html {
 
 body {
   border-top-style: dotted;
-  color: red;
+  background-image: url(/images/boston.jpg);
+  display: block;
+  background-repeat: no-repeat;
 }
 
 h1 {
@@ -69,9 +71,7 @@ footer {
 }
 
 .about {
-  background-image: url(/images/boston.jpg);
-  display: block;
-  background-repeat: no-repeat;
+
 }
 
 #about-text {
