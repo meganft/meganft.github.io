@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background-image: url(/images/boston.jpg);
+  background-image: url(/images/boston_small.jpg);
   display: block;
   background-repeat: no-repeat;
   background-size: cover;
@@ -15,7 +15,7 @@ h1 {
   font-family: 'Cabin Sketch', cursive;
   font-weight: lighter;
   text-align: left;
-  font-size: 60px;
+  font-size: 65px;
   padding-left: 100px;
   padding-top: 90px;
 }
@@ -89,4 +89,20 @@ footer {
   font: Helvetica Neue;
   font-weight: lighter;
   font-size: 1em;
+}
+
+.delay-1 {
+    -webkit-animation-delay: 300ms;
+    -moz-animation-delay: none;
+    animation-delay: 300ms;
+}
+.delay-2 {
+    -webkit-animation-delay: 600ms;
+    -moz-animation-delay: none;
+    animation-delay: 600ms;
+}
+.delay-3 {
+    -webkit-animation-delay: 900ms;
+    -moz-animation-delay: none;
+    animation-delay: 900ms;
 }
