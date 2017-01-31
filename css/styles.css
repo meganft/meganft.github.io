@@ -42,10 +42,10 @@ h2 {
 .collapsible {
   width: 35%;
 }
-
-li {
-  font-size: 12px;
+.collapsible-header i {
+  font-size: 1.1em;
 }
+
 
 .collapsible-header {
   width: 100%;
