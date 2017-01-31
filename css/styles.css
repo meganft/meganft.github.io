@@ -39,6 +39,11 @@ h2 {
   padding-left: 100px;
 }
 
+.collapsible {
+  width: 35%;
+  background-color: transparent;
+}
+
 #test p {
     opacity: 0;
     margin-top: 20px;
