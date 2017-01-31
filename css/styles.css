@@ -39,6 +39,10 @@ h2 {
   padding-left: 100px;
 }
 
+.collapsible {
+  width: 35%;
+}
+
 .collapsible-header {
   width: 35%;
   background-color: transparent;
