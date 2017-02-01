@@ -1,6 +1,5 @@
 html {
   font-family: Helvetica Neue;
-  font-weight: lighter;
 }
 
 body {
@@ -42,6 +41,7 @@ h2 {
 .collapsible {
   width: 35%;
 }
+
 .collapsible-header i {
   font-size: 1.1em;
 }
@@ -65,15 +65,16 @@ a:link {
   font-weight: lighter;
   font-size: 1em;
   text-decoration: none;
+  color: #A6180C;
 }
 
 a:hover {
-  color: #fa8072;
+  color: #A6180C;
   font-weight: 400;
 }
 
 a:visited {
-  color: #fa8072;
+  color: #A6180C;
 }
 
 footer {
