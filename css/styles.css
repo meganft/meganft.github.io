@@ -46,11 +46,16 @@ h2 {
   font-size: 1.1em;
 }
 
-
 .collapsible-header {
   width: 100%;
   background-color: transparent;
+  text-align: left;
 }
+
+.collapsible-body {
+  text-align: leftl
+}
+
 
 #test p {
     opacity: 0;
