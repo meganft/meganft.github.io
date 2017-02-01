@@ -40,6 +40,8 @@ h2 {
 
 .collapsible {
   width: 35%;
+  border: none;
+  font-family: 'Poiret One', cursive;
 }
 
 .collapsible-header i {
@@ -50,10 +52,11 @@ h2 {
   width: 100%;
   background-color: transparent;
   text-align: left;
+  border: none;
 }
 
 .collapsible-body {
-  text-align: leftl
+  text-align: left;
 }
 
 
