@@ -53,11 +53,13 @@ h2 {
   text-align: left;
   border: none;
   font-family: 'Poiret One', cursive;
+  font-size: 17px;
 }
 
 .collapsible-body {
   text-align: left;
   font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
 }
 
 
