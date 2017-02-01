@@ -46,7 +46,7 @@ h2 {
 
 .collapsible-header i {
   font-size: 1.1em;
-    font-family: 'Poiret One', cursive;
+
 }
 
 .collapsible-header {
@@ -54,6 +54,7 @@ h2 {
   background-color: transparent;
   text-align: left;
   border: none;
+  font-family: 'Poiret One', cursive;
 }
 
 .collapsible-body {
@@ -88,7 +89,6 @@ a:visited {
 
 footer {
   padding-left: 80px;
-
 }
 
 .about {
