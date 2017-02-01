@@ -41,11 +41,12 @@ h2 {
 .collapsible {
   width: 35%;
   border: none;
-  font-family: 'Poiret One', cursive;
+
 }
 
 .collapsible-header i {
   font-size: 1.1em;
+    font-family: 'Poiret One', cursive;
 }
 
 .collapsible-header {
