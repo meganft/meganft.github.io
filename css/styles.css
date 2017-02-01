@@ -16,7 +16,7 @@ h1 {
   text-align: left;
   font-size: 55px;
   padding-left: 100px;
-  padding-top: 40px;
+  padding-top: 25px;
 }
 
 h3 {
@@ -41,12 +41,10 @@ h2 {
 .collapsible {
   width: 35%;
   border: none;
-
 }
 
 .collapsible-header i {
   font-size: 1.1em;
-
 }
 
 .collapsible-header {
@@ -59,6 +57,7 @@ h2 {
 
 .collapsible-body {
   text-align: left;
+  font-family: 'Poiret One', cursive;
 }
 
 
