@@ -103,22 +103,7 @@ footer {
   font-size: 1em;
 }
 
-#email-icon{
-  margin: 5px 10px -6px 5px;
-}
-
-#twitter-icon {
-  margin: 0px 10px;
-}
-
-#github-icon {
-  margin:0px 10px;
-}
-
-#linked-icon{
-  margin:0px 10px 2px;
-}
-
-#angel-icon{
-  margin:0px 10px 2px;
+.icon{
+  color: black;
+  padding: 10px;
 }
